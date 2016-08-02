@@ -28,7 +28,7 @@ Grading:
 * Deliverable 3 (System testing)
 * Deliverable 4 (Performance testing)
 * Deliverable 5 (TBD)
-* Deliverable 6 (Test stratigy)
+* Deliverable 6 (Test strategy)
 * Class exercises
 
 Total:
