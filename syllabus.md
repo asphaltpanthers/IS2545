@@ -27,13 +27,14 @@ _Although the professor will make a best effort to have the class topic on the d
 
 ## Class 4 (Sept 22)
 * Unit testing
-* READING: Chapter 13 - 16
+* READING: Chapter 13 - 14
 * DELIVERABLE 2 ASSIGNED
 
 ## Class 5 (Sept 29)
 * Test driven development
 * Writing testable code
 * Unit testing in-class exercise
+* READING: Chapter 15 - 16
 
 ## Class 6 (Oct 6)
 * Web testing with Selenium
