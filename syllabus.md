@@ -26,47 +26,51 @@ _Although the professor will make a best effort to have the class topic on the d
 * DELIVERABLE 1 DUE
 
 ## Class 4 (Sept 22)
-* Unit testing
 * Test driven development
+* Unit testing part 1/2
 * READING: Chapter 13 - 16
 * DELIVERABLE 2 ASSIGNED
 
 ## Class 5 (Sept 29)
+* Unit testing part 2/2
+* Writing testable code
+
+## Class 6 (Oct 6)
 * Web testing with Selenium
 * Behavior driven development
 * DELIVERABLE 2 DUE
 
-## Class 6 (Oct 6)
+## Class 7 (Oct 13)
 * Web testing with REST
-* Web testing in class exercise
+* Web testing in-class exercise
 * DELIVERABLE 3 ASSIGNED
 
-## Class 7 (Oct 13)
+## Class 8 (Oct 20)
 * Pairwise and combinatorial testing
 * Stochastic and property-based testing
 * READING: Chapter 17-18
 * DELIVERABLE 3 DUE
 
-## Class 8 (Oct 20)
+## No class Oct 27
+
+## Class 9 (Nov 3)
 * Performance testing
 * READING: Chapter 19
 * DELIVERABLE 4 ASSIGNED
 
-## No class Oct 27
-
-## Class 9 (Nov 3)
+## Class 10 (Nov 10)
 * Security testing
 * READING: Chpater 20
 * DELIVERABLE 4 DUE
 * DELIVERABLE 5 ASSIGNED
 
-## Class 10 (Nov 10)
+## Class 11 (Nov 17)
 * Stakeholder interaction
 * Quality strategy
 * READING: Chapter 21
+* DELIVERABLE 5 DUE
 * DELIVERABLE 6 ASSIGNED
 
-## Class 11 (Nov 17)
 ## No class Nov 24 Thanksgiving recess
 
 ## Class 12 (Dec 1)
