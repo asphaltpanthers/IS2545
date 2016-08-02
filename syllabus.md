@@ -33,6 +33,7 @@ _Although the professor will make a best effort to have the class topic on the d
 ## Class 5 (Sept 29)
 * Test driven development
 * Writing testable code
+* Unit testing in-class exercise
 
 ## Class 6 (Oct 6)
 * Web testing with Selenium
