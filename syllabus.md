@@ -26,7 +26,7 @@ _Although the professor will make a best effort to have the class topic on the d
 * DELIVERABLE 1 DUE
 
 ## Class 4 (Sept 22)
-* Unit testing part
+* Unit testing
 * READING: Chapter 13 - 16
 * DELIVERABLE 2 ASSIGNED
 
