@@ -22,8 +22,8 @@ _Although the professor will make a best effort to have the class topic on the d
 * Acceptance testing
 * Exploratory testing
 * Automated vs manual testing
-* DELIVERABLE 1 DUE
 * READING: Chapter 10 - 12
+* DELIVERABLE 1 DUE
 
 ## Class 4 (Sept 22)
 * Unit testing
@@ -56,13 +56,14 @@ _Although the professor will make a best effort to have the class topic on the d
 
 ## Class 9 (Nov 3)
 * Security testing
-* Reading: Chpater 20
+* READING: Chpater 20
 * DELIVERABLE 4 DUE
 * DELIVERABLE 5 ASSIGNED
 
 ## Class 10 (Nov 10)
 * Stakeholder interaction
 * Quality strategy
+* READING: Chapter 21
 * DELIVERABLE 6 ASSIGNED
 
 ## Class 11 (Nov 17)
