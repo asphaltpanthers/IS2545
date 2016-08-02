@@ -16,7 +16,7 @@ Textbook: _A Friendly Introduction to Software Testing_ by Bill Laboon
 * PDF https://github.com/laboon/software-testing/blob/master/software-testing-laboon-ebook.pdf
 * Hardcopy http://www.amazon.com/Friendly-Introduction-Software-Testing/dp/1523477377/
 
-This course is designed to give the student a broad understanding of modern software testing and quality assurance. Topics covered will include: manual and automated testing, test driven and behavior driven development, performance testing, security testing, and testing strategy. Entire courses may be devoted to each of these topics. My goal is to provide practical skills that are used in the industry.
+This course is designed to give the student a broad understanding of modern software testing and quality assurance. Topics covered will include: manual and automated testing, test driven and behavior driven development, performance testing, security testing, and testing strategy. Entire courses could be dedicated to any one of these topics. My goal is to introduce each topic and provide practical skills that are used in the industry.
 
 ## Grading (WIP)
 
