@@ -40,11 +40,11 @@ _Although the professor will make a best effort to have the class topic on the d
 * Web testing with Selenium
 * Behavior driven development
 * DELIVERABLE 2 DUE
+* DELIVERABLE 3 ASSIGNED
 
 ## Class 7 (Oct 13)
 * Web testing with REST
 * Web testing in-class exercise
-* DELIVERABLE 3 ASSIGNED
 
 ## Class 8 (Oct 20)
 * Pairwise and combinatorial testing
