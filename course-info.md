@@ -18,18 +18,18 @@ Textbook: _A Friendly Introduction to Software Testing_ by Bill Laboon
 
 This course is designed to give the student a broad understanding of modern software testing and quality assurance. Topics covered will include: manual and automated testing, test driven and behavior driven development, performance testing, security testing, and testing strategy. Entire courses could be dedicated to any one of these topics. My goal is to introduce each topic and provide practical skills that are used in the industry.
 
-## Grading (WIP)
+## Grading
 
 Since the goal of this class is to provide practical skills, most of your grade will be composed of projects to be completed by one or two people.
 
 Grading:
-* Deliverable 1 (Manual test planning)
-* Deliverable 2 (Unit testing / TDD)
-* Deliverable 3 (System testing)
-* Deliverable 4 (Performance testing)
-* Deliverable 5 (TBD)
-* Deliverable 6 (Test strategy)
-* Class exercises
+* Deliverable 1 (Manual test planning) - 15%
+* Deliverable 2 (Unit testing / TDD) - 15%
+* Deliverable 3 (System testing) - 15%
+* Deliverable 4 (Performance testing) - 10%
+* Deliverable 5 (TBD) - 10%
+* Deliverable 6 (Test strategy) - 20%
+* Class exercises - 15%
 
 Total:
 100.00-94.00 A (A+ for extraordinary work)  
@@ -55,7 +55,7 @@ It is recommended you keep all of your graded assignments until final grades are
 
 Attendance for normal lectures is not required, but is STRONGLY recommended.  The instructor will try to ensure that all information will be available via slides or the textbook, but simply reading them may be insufficient to understand the concepts thoroughly.
 
-Presence for group exercise days is required in order to get the full class participation score.
+Presence for group exercise days and guest lectures are required in order to get the full class participation score.
 
 ****
 
