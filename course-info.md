@@ -8,7 +8,7 @@ Class Time: Th 3:00 - 5:50
 
 Room: IS 403
 
-Office Hours: Th 1:30 - 3:00, location to be determined
+Office Hours: Th 1:30 - 3:00, IS 708
 
 Contact: diser@pitt.edu
 
