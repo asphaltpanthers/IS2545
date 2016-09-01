@@ -33,7 +33,7 @@ _Although the professor will make a best effort to have the class topic on the d
 ## Class 5 (Sept 29)
 * Test driven development
 * Writing testable code
-* Unit testing in-class exercise
+* Git/unit testing in-class exercise
 * READING: Chapter 15 - 16
 
 ## Class 6 (Oct 6)
@@ -56,11 +56,13 @@ _Although the professor will make a best effort to have the class topic on the d
 
 ## Class 9 (Nov 3)
 * Performance testing
+* Performance testing in-class exercise
 * READING: Chapter 19
 * DELIVERABLE 4 ASSIGNED
 
 ## Class 10 (Nov 10)
 * Security testing
+* Security testing in-class exercise
 * READING: Chpater 20
 * DELIVERABLE 4 DUE
 * DELIVERABLE 5 ASSIGNED
@@ -75,7 +77,7 @@ _Although the professor will make a best effort to have the class topic on the d
 ## No class Nov 24 Thanksgiving recess
 
 ## Class 12 (Dec 1)
-* User Experience
+* User Experience (guest lecture)
 
 ## Class 13 (Dec 8)
 * Built in extra day
