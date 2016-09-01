@@ -8,13 +8,13 @@ _Although the professor will make a best effort to have the class topic on the d
 * What is quality assurance?
 * History of quality assurance
 * Testing theory and terminology
-* READING: Chapters 1 - 5
+* READING: Chapters 1 - 4
 
 ## Class 2 (Sept 8)
 * Requirements
 * Defects
 * Test plans
-* READING: Chapters 6 - 9
+* READING: Chapters 5 - 9
 * DELIVERABLE 1 ASSIGNED
 
 ## Class 3 (Sept 15)
