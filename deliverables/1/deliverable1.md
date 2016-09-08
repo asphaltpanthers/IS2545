@@ -32,10 +32,10 @@ There should be a short introduction (a few paragraphs) in which you should note
 ON A SEPARATE PAGE, a traceability matrix should be provided mapping the test cases with their associated requirements.  Remember that all requirements should map to AT LEAST ONE test case, and all test cases should map to EXACTLY ONE requirement.
 
 An example traceability matrix:
-Requirement | Test Case
-FUN-ITERATION | Case #1
-FUN-UNKOWN-COMMAND | Case #2,3
-etc.
+	Requirement | Test Case
+	FUN-ITERATION | Case #1
+	FUN-UNKOWN-COMMAND | Case #2,3
+	etc.
 
 The rest of the deliverable will be graded online. At the end of class Sept 15, I will remove access to LeanTesting.
 
