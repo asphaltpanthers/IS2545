@@ -1,0 +1,53 @@
+$ java CitySim9002 9
+Welcome to CitySim!  Your seed is 9.
+Visitor 1 is a Student.
+Visitor 1 is going to The Cathedral of Learning!
+Visitor 1 did not like The Cathedral of Learning.
+Visitor 1 is going to Downtown.
+Visitor 1 did like Downtown.
+Visitor 1 has left the city.
+***
+Visitor 2 is a Business Person.
+Visitor 2 is going to Squirrel Hill!
+Visitor 2 did like Squirrel Hill.
+Visitor 2 has left the city.
+***
+Visitor 3 is a Professor.
+Visitor 3 is going to The Cathedral of Learning!
+Visitor 3 did like The Cathedral of Learning.
+Visitor 3 is going to Downtown.
+Visitor 3 did like Downtown.
+Visitor 3 is going to The Cathedral of Learning!
+Visitor 3 did like The Cathedral of Learning.
+Visitor 3 is going to Squirrel Hill!
+Visitor 3 did like Squirrel Hill.
+Visitor 3 has left the city.
+***
+Visitor 4 is a Student.
+Visitor 4 is going to The Point!
+Visitor 4 did like The Point.
+Visitor 4 is going to The Point!
+Visitor 4 did like The Point.
+Visitor 4 is going to The Cathedral of Learning!
+Visitor 4 did not like The Cathedral of Learning.
+Visitor 4 has left the city.
+***
+Visitor 5 is a Blogger.
+Visitor 5 is going to Squirrel Hill!
+Visitor 5 did not like Squirrel Hill.
+Visitor 5 is going to The Point!
+Visitor 5 did not like The Point.
+Visitor 5 is going to The Cathedral of Learning!
+Visitor 5 did not like The Cathedral of Learning.
+Visitor 5 is going to The Cathedral of Learning!
+Visitor 5 did not like The Cathedral of Learning.
+Visitor 5 is going to The Point!
+Visitor 5 did not like The Point.
+Visitor 5 is going to Squirrel Hill!
+Visitor 5 did not like Squirrel Hill.
+Visitor 5 has left the city.
+***
+
+
+
+

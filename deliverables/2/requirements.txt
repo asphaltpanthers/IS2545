@@ -1,0 +1,32 @@
+## CitySim9002 Requirements
+
+FUN-FIVE-VISITORS. Five visitors, numbered 1 through 5, shall traverse the City, one after the other.
+
+FUN-VISITOR. Each Visitor shall be of one of four types: a Student, a Professor, a Business Person, or a Blogger.
+
+FUN-CITY-LOCS. The program shall simulate a City with four locations: The Cathedral of Learning, Squirrel Hill, The Point, and Downtown.
+
+FUN-PREFERENCES. A Student shall like Squirrel Hill, Downtown, and The Point, and dislike The Cathedral of Learning.  A Business Person shall like Squirrel Hill and Downtown, and dislike all other locations. A Professor shall like all locations.  A Blogger shall dislike all locations.
+
+FUN-ITERATIONS. For each iteration, the program shall randomly select a location for the visitor to visit.  The choices specified in FUN-CITY-LOCS as well as the option to leave the City shall all have equal weight - that is, there is an equal chance that a visitor will have a 20% chance of visiting any location specified in FUN-CITY-LOCS and a 20% chance of leaving the City (except in cases covered under FUN-FIRST-VISIT).
+
+FUN-ITER-DISPLAY. At each iteration, the program shall display where the Visitor has visited and whether or not the Visitor liked that location.  This output shall be of the format:
+
+Visitor x is going to LOCATION!
+Visitor x [did/did not] like LOCATION.
+
+where _x_ is the number of the Visitor, _LOCATION_ is the location they are visiting this iteration, and _[did/did not]_ follows the rules specified in FUN_PREFERENCES.
+
+FUN-FIRST-VISIT. For the first visit for a given Visitor, the Visitor cannot leave the City.  The Visitor must visit at least one Location.
+
+FUN-NUM-ITERATIONS. There shall be no limit on the number of iterations for a given Visitor.
+
+FUN-REPEAT. A Visitor shall be able to repeatedly visit a location if the random number generator produces that as the next location.
+
+FUN-ARGS. The program shall accept one and only one argument, which shall be an integer, which shall act as a seed for the random number generator.  If the program is passed in any number of arguments other than 1, including 0, or the passed-in argument is not a valid integer, the program shall display the message "Please enter one integer argument, seed" and immediately cease execution (exit).
+
+FUN-DISPLAY. The program shall always display the message "Welcome to CitySim! Your seed is _x_." (where _x_ is an integer argument passed in from the command line) as the first message of the simulation.
+
+FUN-STOP. If the Visitor has left the City, the message "Visitor _x_ has left the city.", along with a newline and then three asterisks ("***"), shall be displayed before simulating the next Visitor.
+
+FUN-END. After five Visitors have been simulated, the program shall exit.
