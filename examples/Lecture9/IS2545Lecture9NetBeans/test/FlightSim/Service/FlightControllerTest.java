@@ -15,6 +15,7 @@ import org.junit.Test;
 import static org.mockito.Matchers.any;
 import org.mockito.Mockito;
 import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.when;
 
 /**
@@ -41,5 +42,7 @@ public class FlightControllerTest {
         FlightController controller = new FlightController(mockContext);
         List<Airplane> airplanes = controller.GetAllAirplanes();
         Assert.assertTrue(!airplanes.isEmpty());
+        
+        Mockito.verify(mockContext, times(1)).ExecuteQuery(any(String.class));
     }
 }
