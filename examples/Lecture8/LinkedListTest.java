@@ -1,5 +1,3 @@
-package com.laboon;
-
 import static org.junit.Assert.*;
 
 import org.junit.After;
@@ -190,18 +188,7 @@ public class LinkedListTest {
 		LinkedList<Integer> ll01 = new LinkedList<Integer>();
 		Object obj = new Object();
 		assertFalse(ll01.equals(obj));
-	}
-
-        @Test
-	public void throwException() {
-	    try {
-		doSomethingThatThrowsException();
-		fail();
-	    } catch (Exceptio e) {
-	    }
-	    
-	}
-    
+	}    
     
 	//  Check that two LLs with the same Node value with a single node are equal	
 	@Test
