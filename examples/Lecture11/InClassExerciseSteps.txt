@@ -1,0 +1,18 @@
+git, GitHub, CB, & unit test exercise
+1. Create GitHub account.
+2. Verify email.
+3. git clone https://github.com/asphaltpanthers/CitySim9002.git
+4. Create 'CitySim9002' repo on GitHub. Do not initialize it.
+5. git remote remove origin
+6. git remote add origin https://github.com/<your_username>/CitySim9002.git
+7. git push -u origin master
+8. Open project in NetBeans. Resolve JDK error if you get it.
+9. Make some changes.
+10. git status
+11. git add .
+12. git commit -m "<some comments>"
+13. git push origin master
+14. Demo GUI tools.
+15. Sign up for travis ci.
+16. Demo travis ci.
+17. Code coverage.
