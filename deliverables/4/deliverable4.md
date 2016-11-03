@@ -38,7 +38,7 @@ profiler, determine a method you can use to measurably increase the speed of the
 application without modifying behavior.
 
 The program is an implementation of Conway's Game of Life
-(https://en.wikipedia.org/wiki/Conway%27s\_Game\_of\_Life). You can change the
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). You can change the
 state of a cell (from living to dead) by clicking on one of the buttons. Cells
 which are currently alive have an X and a red background; cells that are dead
 now, but were at any point alive during the current run, will have a green
