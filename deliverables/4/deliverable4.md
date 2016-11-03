@@ -33,7 +33,7 @@ Format
 Every repo should contain a README.md.
 
 In order to determine the "hot spots" of the application, you will need to run a
-profiler such as VisualVM (download at https://visualvm.java.net/). Using a
+profiler such as VisualVM (download at https://visualvm.github.io/). Using a
 profiler, determine a method you can use to measurably increase the speed of the
 application without modifying behavior.
 
