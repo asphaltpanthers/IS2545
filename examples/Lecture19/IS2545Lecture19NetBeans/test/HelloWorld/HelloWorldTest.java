@@ -5,21 +5,10 @@
  */
 package HelloWorld;
 
-import HelloWorld.Entity.Person;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.net.URLEncoder;
-import java.util.Date;
-import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
-import org.apache.http.entity.StringEntity;
-import org.apache.http.util.EntityUtils;
-import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 /**
