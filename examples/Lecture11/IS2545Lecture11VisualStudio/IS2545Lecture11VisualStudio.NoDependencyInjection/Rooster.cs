@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IS2545Lecture11VisualStudio
+namespace IS2545Lecture11VisualStudio.NoDependencyInjection
 {
     public class Rooster
     {
