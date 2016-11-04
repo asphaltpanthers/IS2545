@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IS2545Lecture11VisualStudio.NoDependencyInjection
+namespace Barnyard.WithDependencyInjection
 {
-    public class Pig
+    public class Cow
     {
-        public string Oink()
+        public string Moo()
         {
-            return "Oink!";
+            return "Mooo!";
         }
     }
 }

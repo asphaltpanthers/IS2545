@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS2545Lecture11VisualStudio.NoDependencyInjection", "IS2545Lecture11VisualStudio.NoDependencyInjection\IS2545Lecture11VisualStudio.NoDependencyInjection.csproj", "{BF3E9925-AC0C-48AF-9984-ACA453C87BA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barnyard.NoDependencyInjection", "Barnyard.NoDependencyInjection\Barnyard.NoDependencyInjection.csproj", "{BF3E9925-AC0C-48AF-9984-ACA453C87BA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS2545Lecture11VisualStudio.WithDependencyInjection", "IS2545Lecture11VisualStudio.WithDependencyInjection\IS2545Lecture11VisualStudio.WithDependencyInjection.csproj", "{D01BBD57-6508-45E3-AF15-E0AEBB80773C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barnyard.WithDependencyInjection", "Barnyard.WithDependencyInjection\Barnyard.WithDependencyInjection.csproj", "{D01BBD57-6508-45E3-AF15-E0AEBB80773C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{641E72F8-B7F7-41EA-BC53-C3F7E8E3F101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
