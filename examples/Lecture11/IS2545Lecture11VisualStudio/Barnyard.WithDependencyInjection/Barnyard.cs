@@ -12,7 +12,7 @@ namespace Barnyard.WithDependencyInjection
          * constructor. Now when we test this class, instead of testing with real animals, we can test with fake animals. Imagine if instead of
          * animals, the objects were things like database connections or API interfaces. We could design a fake database connection that returns
          * default values for our tests. We've now isolated our test to only test the method under test and there is no way for the test to fail
-         * except for a bug in the method under test. See IS2545Lecture11VisualStudio.WithDependencyInjection.Tests for examples on how to mock
+         * except for a bug in the method under test. See Barnyard.WithDependencyInjection.Tests for examples on how to mock
          * objects.
          */
         private Cow _cow;
@@ -26,11 +26,11 @@ namespace Barnyard.WithDependencyInjection
             _rooster = rooster;
         }
 
-        public void MakeNoise()
+        public string MakeNoise()
         {
-            _cow.Moo();
-            _pig.Oink();
-            _rooster.Crow();
+            return _cow.Moo() + Environment.NewLine +
+                _pig.Oink() + Environment.NewLine +
+                _rooster.Crow();
         }
     }
 }

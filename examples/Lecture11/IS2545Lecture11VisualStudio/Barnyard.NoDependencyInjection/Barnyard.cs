@@ -18,11 +18,11 @@ namespace Barnyard.NoDependencyInjection
         private Pig _pig = new Pig();
         private Rooster _rooster = new Rooster();
 
-        public void MakeNoise()
+        public string MakeNoise()
         {
-            _cow.Moo();
-            _pig.Oink();
-            _rooster.Crow();
+            return _cow.Moo() + Environment.NewLine +
+                _pig.Oink() + Environment.NewLine + 
+                _rooster.Crow();
         }
     }
 }

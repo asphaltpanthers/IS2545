@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barnyard.WithDependencyInje
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{641E72F8-B7F7-41EA-BC53-C3F7E8E3F101}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barnyard.WithDependencyInjection.Tests", "Barnyard.WithDependencyInjection.Tests\Barnyard.WithDependencyInjection.Tests.csproj", "{68786B52-DDBA-419D-90A4-34B5E7748737}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,8 +25,15 @@ Global
 		{D01BBD57-6508-45E3-AF15-E0AEBB80773C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D01BBD57-6508-45E3-AF15-E0AEBB80773C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D01BBD57-6508-45E3-AF15-E0AEBB80773C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68786B52-DDBA-419D-90A4-34B5E7748737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68786B52-DDBA-419D-90A4-34B5E7748737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68786B52-DDBA-419D-90A4-34B5E7748737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68786B52-DDBA-419D-90A4-34B5E7748737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{68786B52-DDBA-419D-90A4-34B5E7748737} = {641E72F8-B7F7-41EA-BC53-C3F7E8E3F101}
 	EndGlobalSection
 EndGlobal
