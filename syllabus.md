@@ -77,10 +77,10 @@ _Although the professor will make a best effort to have the class topic on the d
 ## No class Nov 24 Thanksgiving recess
 
 ## Class 12 (Dec 1)
-* User Experience (guest lecture)
+* Built in extra day
 
 ## Class 13 (Dec 8)
-* Built in extra day
+* User Experience (guest lecture)
 
 ## Class 14 (Dec 15)
 * Final presentations
