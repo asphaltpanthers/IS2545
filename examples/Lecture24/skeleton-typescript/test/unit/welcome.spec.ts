@@ -1,10 +1,20 @@
 import {Welcome} from '../../src/welcome'
+import {HttpClient} from 'aurelia-fetch-client';
 
 describe('the welcome page', () => {
     var sut;
 
     beforeEach(() => {
-        sut = new Welcome();
+        var mockName = {
+            "firstName": "James",
+            "lastName": "Smith"
+        };
+
+        var http = new HttpClient();
+        http.fetch = (url, i) => Promise.resolve({
+            json: () => mockName
+        });
+        sut = new Welcome(http);
     });
 
     it('contains default values', () => {
@@ -23,5 +33,16 @@ describe('the welcome page', () => {
         sut.lastName = 'Iser'
         sut.submit();
         expect(sut.disabled).toEqual(true);
+    })
+
+    it('clicking "Get Name from Service" sets first and last name', done => {
+        sut.getNameFromService().then(() => {
+            expect(sut.firstName).toEqual("James");
+            expect(sut.lastName).toEqual("Smith");
+            done();
+        }).catch(e => {
+            expect(e).toBeUndefined();
+            done();
+        });
     })
 });

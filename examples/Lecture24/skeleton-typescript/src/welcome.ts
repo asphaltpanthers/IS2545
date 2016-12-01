@@ -1,11 +1,20 @@
 // import {computedFrom} from 'aurelia-framework';
+import {HttpClient} from 'aurelia-fetch-client';
+import {autoinject} from 'aurelia-framework';
 
+@autoinject
 export class Welcome {
   public heading = 'Welcome to the Aurelia Navigation App!';
   public firstName = 'John';
   public lastName = 'Doe';
   public disabled = false;
   private previousValue = this.fullName;
+
+  http: HttpClient;
+
+  constructor(http: HttpClient) {
+    this.http = http;
+  }
 
   // Getters can't be directly observed, so they must be dirty checked.
   // However, if you tell Aurelia the dependencies, it no longer needs to dirty check the property.
@@ -30,6 +39,15 @@ export class Welcome {
     if (this.fullName !== this.previousValue) {
       return confirm('Are you sure you want to leave?');
     }
+  }
+
+  public getNameFromService() {
+    return this.http.fetch("http://awesome-service.com/api/name")
+      .then(response => response.json())
+      .then(response => {
+        this.firstName = response.firstName;
+        this.lastName = response.lastName;
+      });
   }
 }
 
